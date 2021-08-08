@@ -1,2 +1,2 @@
 import './js/card.js'
-// import './js/checkbox'
+import './js/checkbox'
